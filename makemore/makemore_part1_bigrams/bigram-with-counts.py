@@ -49,6 +49,6 @@ class Bigram():
 
 
 if __name__ == "__main__":
-    # torch.manual_seed(2147483647)
+    torch.manual_seed(2147483647)
     b = Bigram('names.txt')
-    b(100)
+    b(10)

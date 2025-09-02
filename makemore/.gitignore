@@ -1,2 +1,5 @@
 /env
 /.ipynb_checkpoints
+makemore_part1_bigrams/mlruns/
+makemore_part1_bigrams/artifacts/
+makemore_part1_bigrams/artifacts/mlflow.db
